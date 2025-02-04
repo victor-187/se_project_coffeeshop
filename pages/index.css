@@ -139,6 +139,7 @@
   gap: 40px;
   padding-bottom: 215px;
   list-style-type: none;
+  border-color: #838383;
 }
 
 .recipes__video-caption {
