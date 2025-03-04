@@ -13,4 +13,4 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+From my perspective what I would add would be more illustrations and more animation, more details in places specially in places you'll want to catch your audience attention.
