@@ -14,7 +14,6 @@
   font-weight: 500;
   font-size: 16px;
   line-height: 20px;
-  padding-top: 30px;
 }
 
 .nav__link {
@@ -31,8 +30,7 @@
 .nav__logo {
   width: 105px;
   height: 39px;
-  padding-left: 30px;
-  padding-top: 30px;
+
   position: relative;
   left: -50px;
 }

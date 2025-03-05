@@ -1,10 +1,12 @@
 .header {
   height: 800px;
   padding: 30px 80px 40px;
+  box-sizing: border-box;
   background: center / cover no-repeat #fff url(../images/background_header.svg);
   position: relative;
   display: flex;
   flex-direction: column;
+  z-index: 1;
 }
 
 .header__title {
@@ -15,6 +17,17 @@
   letter-spacing: -0.6px;
   max-width: 729px;
   margin: 183px 0 0;
+  font-style: normal;
+}
+
+.header__span-accent {
+  font-family: "Noto Serif", "Times New Roman", "serif";
+  font-style: italic;
+  font-weight: normal;
+  font-size: 60px;
+  line-height: 72px;
+  color: #3f96f3;
+  display: block;
 }
 
 .header__description {
@@ -41,6 +54,7 @@
   right: 5px;
   height: 568px;
   width: 646px;
+  z-index: -1;
 }
 
 .header__footer {
